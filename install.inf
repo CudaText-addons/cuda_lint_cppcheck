@@ -1,0 +1,5 @@
+[info]
+title=Linter for C++, using CppCheck
+desc=Linter for CudaLint, adds support for C++ lexer, uses cppcheck tool
+type=cudatext-plugin
+subdir=cuda_lint_cppcheck
