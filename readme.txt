@@ -1,6 +1,10 @@
-This is plugin for SynLint plugin.
-It adds support for C++ lexer.
+Linter for CudaLint plugin.
+Supports C++ lexer.
 
 You need to get "cppcheck" tool:
 http://cppcheck.sourceforge.net/
-Then copy its EXE and DLL files into subfolder "PyTools" of SynWrite install folder.
+
+On Unix: install package "cppcheck".
+On Windows: download "cppcheck", copy its *.exe and *.dll files into some folder in PATH system variable.
+
+Author: Alexey T.
